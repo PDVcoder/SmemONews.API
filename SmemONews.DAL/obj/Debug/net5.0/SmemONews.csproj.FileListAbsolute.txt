@@ -1,0 +1,15 @@
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\bin\Debug\net5.0\SmemONews.deps.json
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\bin\Debug\net5.0\SmemONews.runtimeconfig.json
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\bin\Debug\net5.0\SmemONews.runtimeconfig.dev.json
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\bin\Debug\net5.0\SmemONews.dll
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\bin\Debug\net5.0\ref\SmemONews.dll
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\bin\Debug\net5.0\SmemONews.pdb
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\obj\Debug\net5.0\SmemONews.csprojAssemblyReference.cache
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\obj\Debug\net5.0\SmemONews.GeneratedMSBuildEditorConfig.editorconfig
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\obj\Debug\net5.0\SmemONews.AssemblyInfoInputs.cache
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\obj\Debug\net5.0\SmemONews.AssemblyInfo.cs
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\obj\Debug\net5.0\SmemONews.csproj.CoreCompileInputs.cache
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\obj\Debug\net5.0\SmemONews.dll
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\obj\Debug\net5.0\ref\SmemONews.dll
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\obj\Debug\net5.0\SmemONews.pdb
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews\obj\Debug\net5.0\SmemONews.genruntimeconfig.cache

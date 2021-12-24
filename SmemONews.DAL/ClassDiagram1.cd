@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SmemONews.DAL.EF.DataContext">
+    <Position X="9.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAACAAAAAAAAAAAAAAAAAAEgAAAEAAAAABAAAAIEA=</HashCode>
+      <FileName>EF\DataContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.DAL.Entity.Comment">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEDAAAAAAAgAAAACAAAAAgAAAAAAAAAAACACAAAAAA=</HashCode>
+      <FileName>Entity\Comment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.DAL.Entity.Heading">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\Heading.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.DAL.Entity.News">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAEAAAAAEAACAAAAAwAAAAAAAAAAAAACCBAIEA=</HashCode>
+      <FileName>Entity\News.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.DAL.Entity.Role">
+    <Position X="8" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\Role.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.DAL.Entity.Tag">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Entity\Tag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.DAL.Entity.TagsInNews">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Entity\TagsInNews.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.DAL.Entity.User">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGCAEIEACAAAAAIEAAAQAAAAQAIAAAAAAAQAAAAIAA=</HashCode>
+      <FileName>Entity\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.DAL.Repositories.EFUnitOfWork" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAIAkACAkBAAAEAAAiAAAAAAAAAgAAAAAACAQABI=</HashCode>
+      <FileName>Repositories\EFUnitOfWork.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SmemONews.DAL.Repositories.Repository&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAQAABAAAAACAQAAAEIAEAAAgAAAAIAAAA=</HashCode>
+      <FileName>Repositories\Repository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="SmemONews.DAL.Interfaces.IRepository&lt;T&gt;">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAABAAAAAAAQAAAEIAEAAAgAAAAIAAAA=</HashCode>
+      <FileName>Interfaces\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmemONews.DAL.Interfaces.IUnitOfWork">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAIAEACAgAAAAEAAAAAAAAAAAAAAAAAAAACAAAAI=</HashCode>
+      <FileName>Interfaces\IUnitOfWork.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

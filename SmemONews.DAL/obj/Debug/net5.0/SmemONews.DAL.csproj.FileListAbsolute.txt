@@ -1,0 +1,15 @@
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\bin\Debug\net5.0\SmemONews.DAL.deps.json
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\bin\Debug\net5.0\SmemONews.DAL.runtimeconfig.json
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\bin\Debug\net5.0\SmemONews.DAL.runtimeconfig.dev.json
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\bin\Debug\net5.0\SmemONews.DAL.dll
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\bin\Debug\net5.0\ref\SmemONews.DAL.dll
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\bin\Debug\net5.0\SmemONews.DAL.pdb
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\SmemONews.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\SmemONews.DAL.AssemblyInfoInputs.cache
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\SmemONews.DAL.AssemblyInfo.cs
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\SmemONews.DAL.csproj.CoreCompileInputs.cache
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\SmemONews.DAL.dll
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\ref\SmemONews.DAL.dll
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\SmemONews.DAL.pdb
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\SmemONews.DAL.genruntimeconfig.cache
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\SmemONews.DAL.csprojAssemblyReference.cache

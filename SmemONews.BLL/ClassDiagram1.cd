@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SmemONews.BLL.BusinessModels.NewsFilter">
+    <Position X="12.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgIAAAAAAAAAAAEAAAAAAAAAAAIABAAAA=</HashCode>
+      <FileName>BusinessModels\NewsFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.BLL.BusinessModels.RoleValidator">
+    <Position X="12.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessModels\RoleValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.BLL.BusinessModels.StatusValidator">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessModels\StatusValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.BLL.DTO.BaseCommentDTO">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAgAAAAAAAAAAACACAAAAAA=</HashCode>
+      <FileName>DTO\BaseCommentDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.BLL.DTO.BaseNewsDTO">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAwAAAAAAEAAAAAACABAAAA=</HashCode>
+      <FileName>DTO\BaseNewsDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.BLL.DTO.BaseUserDTO">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAEIAACAAAAAIAAAAQAAAAAAIAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>DTO\BaseUserDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.BLL.DTO.CommentDTO">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEDAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTO\CommentDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.BLL.DTO.HeadingDTO">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTO\HeadingDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.BLL.DTO.NewsDTO">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>DTO\NewsDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.BLL.DTO.RoleDTO">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTO\RoleDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.BLL.DTO.TagDTO">
+    <Position X="8" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTO\TagDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.BLL.DTO.UserDTO">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTO\UserDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.BLL.Infrastructure.ValidationException">
+    <Position X="10.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Infrastructure\ValidationExeption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.BLL.Services.AdminService" BaseTypeListCollapsed="true">
+    <Position X="24.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAGAAgAAECAAAAAAIAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Services\AdminService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmemONews.BLL.Services.CommentPublishService" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\CommentPublishService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmemONews.BLL.Services.EditNewsService" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAGAAAAAAAAAAAAAAAAEAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Services\EditNewsService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmemONews.BLL.Services.LoginService" BaseTypeListCollapsed="true">
+    <Position X="24.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\LoginService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmemONews.BLL.Services.NewsFilterService" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAECAIAGAAAAAAAAAAAAAAAAAAgAABAAAAEAAAAAA=</HashCode>
+      <FileName>Services\NewsFilterService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmemONews.BLL.Services.NewsModeratorService" BaseTypeListCollapsed="true">
+    <Position X="24.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAAAAAAAAEAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Services\NewsModeratorService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmemONews.BLL.Services.NewsPublishService" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAGAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\NewsPublishService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmemONews.BLL.Services.NewsViewService" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAgAAAAAAAAAAAAAAAAAAABEAgAAAAAAAA=</HashCode>
+      <FileName>Services\NewsViewService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmemONews.BLL.Services.RegistrationService" BaseTypeListCollapsed="true">
+    <Position X="24.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Services\RegistrationService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmemONews.BLL.StaticDTO.RoleValue">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAQAAEAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Statics\RoleValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmemONews.BLL.StaticDTO.StatusValue">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAABAAAgAAA=</HashCode>
+      <FileName>Statics\StatusValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SmemONews.BLL.Interfaces.IAdminService">
+    <Position X="23" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAgAAECAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Interfaces\IAdminService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmemONews.BLL.Interfaces.ICommentPublishService">
+    <Position X="19.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICommentPublishService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmemONews.BLL.Interfaces.IEditNewsService">
+    <Position X="19.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAEAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Interfaces\IEditNewsService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmemONews.BLL.Interfaces.ILoginService">
+    <Position X="23" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ILoginService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmemONews.BLL.Interfaces.INewsFilterService">
+    <Position X="19.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAECAIACAAAAAAAAAAAAAAAAAAgAABAAAAEAAAAAA=</HashCode>
+      <FileName>Interfaces\INewsFilterService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmemONews.BLL.Interfaces.INewsModeratorService">
+    <Position X="23" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAEAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Interfaces\INewsModeratorService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmemONews.BLL.Interfaces.INewsPublishService">
+    <Position X="26.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\INewsPublishService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmemONews.BLL.Interfaces.INewsViewService">
+    <Position X="19.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAABAAgAAAAAAAA=</HashCode>
+      <FileName>Interfaces\INewsViewService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SmemONews.BLL.Interfaces.IRegistrationService">
+    <Position X="23" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Interfaces\IRegistrationService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
