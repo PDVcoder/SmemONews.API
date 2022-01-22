@@ -12,4 +12,4 @@ E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\SmemONews.D
 E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\ref\SmemONews.DAL.dll
 E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\SmemONews.DAL.pdb
 E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\SmemONews.DAL.genruntimeconfig.cache
-E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\SmemONews.DAL.csprojAssemblyReference.cache
+E:\KPI\Semestr_5\KR\Project\SmemONews\SmemONews.DAL\obj\Debug\net5.0\SmemONews.DAL.csproj.AssemblyReference.cache

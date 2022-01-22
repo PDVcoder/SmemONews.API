@@ -5,7 +5,9 @@ using SmemONews.BLL.Interfaces;
 
 namespace SmemONews.API.Controllers
 {
-    public class CommentPublishController : Controller
+    [Route("SmemONewsAPI/[controller]")]
+    [ApiController]
+    public class CommentPublishController : ControllerBase
     {
         private readonly ICommentPublishService _commentPublishService;
 

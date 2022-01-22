@@ -5,7 +5,9 @@ using SmemONews.BLL.Interfaces;
 
 namespace SmemONews.API.Controllers
 {
-    public class RegistrateController : Controller
+    [Route("SmemONewsAPI/[controller]")]
+    [ApiController]
+    public class RegistrateController : ControllerBase
     {
         private readonly IRegistrationService _registrationService;
 

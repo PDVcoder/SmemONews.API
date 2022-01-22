@@ -1,11 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SmemONews.BLL.Infrastructure;
 using SmemONews.BLL.Interfaces;
-using SmemONews.BLL.StaticDTO;
 
 namespace SmemONews.API.Controllers
 {
-    public class AdminController : Controller
+    [Route("SmemONewsAPI/[controller]")]
+    [ApiController]
+    public class AdminController : ControllerBase
     {
         private readonly IAdminService _adminService;
         public AdminController(IAdminService adminService)

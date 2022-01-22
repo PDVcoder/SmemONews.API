@@ -9,7 +9,9 @@ using System.Threading.Tasks;
 
 namespace SmemONews.API.Controllers
 {
-    public class NewsFilterController : Controller
+    [Route("SmemONewsAPI/[controller]")]
+    [ApiController]
+    public class NewsFilterController : ControllerBase
     {
         private readonly INewsFilterService _newsFilterService;
         

@@ -8,7 +8,9 @@ using System.Threading.Tasks;
 
 namespace SmemONews.API.Controllers
 {
-    public class NewsViewController : Controller
+    [Route("SmemONewsAPI/[controller]")]
+    [ApiController]
+    public class NewsViewController : ControllerBase
     {
         private readonly INewsViewService _newsViewService;
 
